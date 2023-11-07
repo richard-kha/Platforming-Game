@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Jump Game W.Plugins", "Jump Game W.Plugins.csproj", "{6D5FC6D2-2654-D0B4-518F-CC332ECF765F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Jump Game W", "Jump Game W.csproj", "{8024B37F-8951-75F6-6816-35EEC099FB36}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Jump Game W.Editor.Plugins", "Jump Game W.Editor.Plugins.csproj", "{1FF25F03-461B-77E9-D5F3-A8F4D0CFCE2B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6D5FC6D2-2654-D0B4-518F-CC332ECF765F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6D5FC6D2-2654-D0B4-518F-CC332ECF765F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6D5FC6D2-2654-D0B4-518F-CC332ECF765F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6D5FC6D2-2654-D0B4-518F-CC332ECF765F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8024B37F-8951-75F6-6816-35EEC099FB36}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8024B37F-8951-75F6-6816-35EEC099FB36}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8024B37F-8951-75F6-6816-35EEC099FB36}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8024B37F-8951-75F6-6816-35EEC099FB36}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1FF25F03-461B-77E9-D5F3-A8F4D0CFCE2B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1FF25F03-461B-77E9-D5F3-A8F4D0CFCE2B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1FF25F03-461B-77E9-D5F3-A8F4D0CFCE2B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1FF25F03-461B-77E9-D5F3-A8F4D0CFCE2B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
